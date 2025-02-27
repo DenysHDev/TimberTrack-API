@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2vCK0Bhwss=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wowac\\Documents\\C#-course\\TimberTrack-API\\TimberTrack-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wowac\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\wowac\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

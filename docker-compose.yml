@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  timbertrack-api:
+    image: skydream761/timbertrack-api:latest 
+    restart: always  # Restart if container crashes
+    ports:
+      - "3000:3000"  # Map port 3000 on the host to the container
+    volumes:
+      - ./Resources:/app/Resources  # Persist JSON data

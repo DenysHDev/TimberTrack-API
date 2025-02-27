@@ -1,0 +1,27 @@
+[
+  {
+    "Machine_id": "M-001",
+    "Date": "2025-02-27",
+    "Trees_cut": 59
+  },
+  {
+    "Machine_id": "M-002",
+    "Date": "2025-02-27",
+    "Trees_cut": 55
+  },
+  {
+    "Machine_id": "M-003",
+    "Date": "2025-02-27",
+    "Trees_cut": 49
+  },
+  {
+    "Machine_id": "M-004",
+    "Date": "2025-02-27",
+    "Trees_cut": 51
+  },
+  {
+    "Machine_id": "M-005",
+    "Date": "2025-02-27",
+    "Trees_cut": 42
+  }
+]

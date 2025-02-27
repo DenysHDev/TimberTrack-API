@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TimberTrack-API.props" />
+</Project>
