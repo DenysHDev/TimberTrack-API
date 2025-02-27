@@ -17,7 +17,7 @@ WORKDIR /app
 # Copy the build output to the runtime image
 COPY --from=build /out ./
 
-# Expose the port (make sure it matches the one in Program.cs)
+# Expose the port 
 EXPOSE 3000
 
 # Run the application
